@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.data {
+  display: flex;
+  justify-content: space-around;
+}
+
+.styling {
+  background-color: rgb(178, 143, 211);
+  width: 100%;
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  font-family: fantasy;
+  letter-spacing: 3px;
+  color: rgb(133, 56, 72);
+  margin-bottom: 1rem
+}
